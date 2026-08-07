@@ -17,12 +17,6 @@ Sou **Analista de Negócios**, com formação em Gestão de Tecnologia da Inform
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=EduardoHenrique01&theme=transparent&bg_color=FFFFFF&border_color=0077B5&show_icons=true&icon_color=0077B5&title_color=0077B5&text_color=000000" height="150"/>
-
----
-
 ## 🛠️ Minha Caixa de Ferramentas (Tech Stack)
 
 ### 📋 Gestão de Projetos e Processos
