@@ -1,17 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&vCenter=true&left=true&size=60&pause=1000&color=0077B5&width=1000&height=65&lines=Ol%C3%A1!+Eu+sou+o+Eduardo+Henrique!+%F0%9F%91%8B;Bem-vindo(a)+ao+meu+perfil!+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&vCenter=true&left=true&size=32&pause=1000&color=0077B5&width=1000&height=65&lines=Ol%C3%A1!+Eu+sou+o+Eduardo+Henrique!+%F0%9F%91%8B;Analista+de+Neg%C3%B3cios+%7C+Gest%C3%A3o+de+TI+%7C+PMO;Bem-vindo(a)+ao+meu+perfil!+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Sou um **Analista de Dados** apaixonado por transformar dados brutos em insights estratégicos e acionáveis.
+Sou **Analista de Negócios**, com formação em Gestão de Tecnologia da Informação e MBA em Gestão de Negócios, atuando na interface entre áreas de negócio e times técnicos.
 
-* 🚀 Minha jornada foca em extrair, manipular, visualizar e comunicar descobertas de forma eficaz.
-* 🛠️ Estou constantemente aprimorando minhas habilidades e buscando oportunidades para aplicar meu conhecimento em projetos desafiadores.
-* 🌱 Atualmente aprendendo e focando em: **Python** e **Power BI**.
-* 💬 "Dados são o novo petróleo. E eu sou o engenheiro que o refina."
+* 🔍 Experiência em levantamento de requisitos, mapeamento de processos e acompanhamento de projetos.
+* 📊 Documentação de indicadores (KPIs), padrões de governança e metodologias — com base em **PMBOK** e **Scrum**.
+* 🌉 Atuo como ponte de comunicação entre áreas técnicas e não técnicas, traduzindo demandas de negócio em critérios objetivos de entrega.
+* 🚀 Automatizei relatórios gerenciais e fluxos de acompanhamento, elevando em **~40%** a produtividade operacional da gestão em projetos anteriores.
+* 🌱 Aprimorando continuamente meus conhecimentos em **Power BI**, **SQL** e **Gestão de Projetos**.
+* 💬 "Tecnologia é ferramenta — o valor está em como ela apoia a decisão do negócio."
 
 ---
 
@@ -23,40 +25,66 @@ Sou um **Analista de Dados** apaixonado por transformar dados brutos em insights
 
 ## 🛠️ Minha Caixa de Ferramentas (Tech Stack)
 
-### 💻 Programação e Análise
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
+### 📋 Gestão de Projetos e Processos
+![PMBOK](https://img.shields.io/badge/PMBOK-0077B5?logo=readthedocs&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0079BF?logo=trello&logoColor=white)
+![BPMN](https://img.shields.io/badge/BPMN-FF6F00?logo=diagramsdotnet&logoColor=white)
+![ITIL](https://img.shields.io/badge/ITIL-fund.-00A4EF?logo=itilfoundation&logoColor=white)
 
-### 🗄️ Bancos de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+### 🗂️ Ferramentas de Gestão
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![MS Project](https://img.shields.io/badge/MS%20Project-217346?logo=microsoftproject&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel%20Avançado-217346?logo=microsoftexcel&logoColor=white)
 
-### 📈 Business Intelligence e Visualização
+### 📈 Dados e Análise
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=googlelooker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 
-### ⚙️ Conceitos e Ferramentas
-![ETL](https://img.shields.io/badge/ETL-FF6F00?logo=apacheairflow&logoColor=white)
+### ⚙️ Outras Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ---
 
-## 🚀 Meus Projetos Destaque
+## 💼 Experiência Profissional
 
-* **Dashboard Interativo de Vendas (Power BI, SQL Server)**
-    * [Visualizar Dashboard](https://lookerstudio.google.com/reporting/ec942992-3d04-41e6-b111-26b9d81c47e4)
-* **Análise de Dados e Reestruturação de Tabela (Python, Pandas, Matplotlib)**
-    * [Ver no GitHub](https://github.com/EduardoHenrique01/Projeto-Kaggle)
+**Assistente de Gestão de Projetos e Negócios** — Freelance
+*São Paulo · jun/2024 – jul/2025*
+
+- Levantei requisitos junto à liderança, traduzindo demandas de negócio em critérios objetivos de entrega e acompanhamento.
+- Acompanhei marcos e status de projetos, assegurando a integridade das informações para a decisão estratégica.
+- Documentei processos, KPIs, fontes e metodologias, estabelecendo padrões de governança que deram continuidade às iniciativas.
+- Automatizei relatórios gerenciais e fluxos de acompanhamento, elevando em ~40% a produtividade operacional da gestão.
+- Atuei como ponte de comunicação entre áreas técnicas e não técnicas, apresentando status e recomendações a gestores.
+
+---
+
+## 🚀 Meu Projeto Destaque
+
+* **PMO Digital** — Gestão de projetos de ponta a ponta (PMBOK + Scrum): Termo de Abertura, EAP, cronograma, matriz de riscos, análise de valor agregado (CPI/SPI) e dashboard executivo.
+    * [Ver no GitHub](https://github.com/EduardoHenrique01)
+
+---
+
+## 🎓 Formação Acadêmica
+
+- **MBA em Gestão de Negócios** — Centro Universitário Ítalo Brasileiro · 2023–2025
+- **Tecnólogo em Gestão de Tecnologia da Informação** — Centro Universitário Ítalo Brasileiro · 2023–2025
+
+---
+
+## 🗣️ Idiomas & Certificações
+
+**Idiomas:** Inglês (profissional) · Espanhol (básico)
+
+**Certificações:** Microsoft Office · Web Design *(em andamento: Fundamentos de Scrum / Análise de Negócios)*
 
 ---
 
 ## 📫 Como me Encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-henrique-a47b182ba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoh-lima/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:Eduuh11@outlook.com)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=footer"/>
